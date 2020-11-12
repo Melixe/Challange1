@@ -1,0 +1,20 @@
+article {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 0;
+  grid-row-end: 1;
+  padding: 20px;
+  background-color: white;
+  color: rgb(187, 184, 184);
+  border-radius: 10px 10px 0 0;
+}
+.join{
+  color: hsl(179, 62%, 43%);
+}
+.info{
+  color: hsl(71, 73%, 54%);
+}
+.description{
+  font-size: 14px;
+  line-height: 2em;
+}

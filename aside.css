@@ -1,0 +1,29 @@
+aside {
+  padding: 20px;
+  background-color: hsl(179, 62%, 43%);
+  line-height: 2em;
+  font-weight: 100;
+  border-radius: 0 0 0 10px;
+}
+.show-currency {
+  white-space: nowrap;
+}
+.price_dollars {
+  font-size: 25px;
+  vertical-align: top;
+}
+.price_text {
+  font-size: 12px;
+  align-self: flex-end;
+  white-space: pre;
+  color:hsla(0, 0%, 83%, 0.808);
+}
+.btn {
+  background-color: hsl(101, 61%, 52%);
+  border: solid hsl(101, 61%, 52%);
+  width: 100%;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
