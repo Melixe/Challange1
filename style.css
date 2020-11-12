@@ -27,7 +27,8 @@ main {
   grid-template-rows: 1fr;
   text-align: left;
   color: white;
-
+  margin-left: 9%;
+  margin-top: 15%;
 }
 article {
   grid-column-start: 1;
@@ -73,5 +74,7 @@ footer {
 @media screen and (max-width: 375px) and (orientation: portrait) {
   .container{
     display: block;
+    margin-top: 0;
+    margin-left: 0;
   }
 }
