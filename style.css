@@ -70,7 +70,7 @@ footer {
   background-color: hsl(179, 49%, 55%);
   border-radius: 0 0 10px 0;
 }
-@media screen and (min-width: 375px) and (orientation: portrait) {
+@media screen and (max-width: 375px) and (orientation: portrait) {
   .container{
     display: block;
   }
