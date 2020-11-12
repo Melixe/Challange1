@@ -27,8 +27,8 @@ main {
   grid-template-rows: 1fr;
   text-align: left;
   color: white;
-  margin-left: 9%;
-  margin-top: 15%;
+  margin-left: 7%;
+  margin-top: 14%;
 }
 article {
   grid-column-start: 1;
