@@ -18,6 +18,9 @@ aside {
   white-space: pre;
   color:hsla(0, 0%, 83%, 0.808);
 }
+p.detail{
+  font-weight: normal;
+}
 .btn {
   background-color: hsl(101, 61%, 52%);
   border: solid hsl(101, 61%, 52%);
